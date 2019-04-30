@@ -90,6 +90,7 @@ Currently known supported models:
 - KU7000 (port must be set to 8001)
 - M5620 (port must be set to 8001, and `pip3 install websocket-client` must be executed)
 - MU6170UXZG (port must be set to 8001, and `pip3 install websocket-client` must be executed)
+- MU6120 (port must be set to 8001, and `pip3 install websocket-client` must be executed)
 - NU7090 (port must be set to 8801, On/Off, MAC must be specified for Power On)
 - NU7400 (port set to 8001 and `pip3 install websocket-client` executed)
 - NU8000
